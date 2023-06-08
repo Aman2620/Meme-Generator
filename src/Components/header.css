@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-container{
+    width: 100%;
+    height: 100px;
+    background-image: linear-gradient(to right,#86138a, #97139c,#d940de,#f064f5);
+}
+.header-content{
+    display: flex;
+    align-items: center;
+}
+
+.header-content img{
+    height: 100px;
+    margin-left: 3%;
+}
+.header-content h2{
+    padding: 20px;
+    color: white;
+}
